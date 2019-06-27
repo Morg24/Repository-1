@@ -1,0 +1,36 @@
+---
+title: "Why Are Flights Cancelled?"
+author: "Kenneth Morgan"
+date: "6/25/2019"
+linespread: 2
+header-includes:
+    - \usepackage{setspace}\doublespacing
+output: pdf_document
+
+---
+
+
+```
+```
+\center __Why Are Certain Flights Cancelled?__ \center
+
+\flushleft
+
+
+
+
+
+
+
+
+
+```
+```
+
+For my project proposal, I would like to answer the question, “Why are certain flights cancelled?” One who knows that traveling has its ups and downs, knows that a cancelled or delayed flight will be the downfall in a trip. There could be a lot of factors that causes an airplane flight to cancel. The problem is, which factor will be manipulated that will help lessen the chance for someone’s flight to be cancelled. 	
+My client will be an airport. The airport is the foundation for where most people will encounter a cancelled flight. The cancelled flights usually leave a lower customer satisfaction ratio. However, the people at the airport will be the products that will give me the data to study the flight time variables. 
+The data I will be using is on a dataset Microsoft Excel worksheet from Kaggle.com. Kaggle.com has many datasets that I can use to classify and analyze the data to find solutions and eventually find an answer to my hypothesis. The data that is in the dataset, is the arrival of the flight, the time the flight takes off, the flight time, the number of passengers, the date of the flight, wind speed, and many other factors. Every one of the factors will be looked across and analyzed.
+First, to solve this problem I would like to fully understand the data and analyze the data to the fullest extent. I would also like to survey customers at the airport and get their feel towards the subject. From there I was thinking to find which variable from the dataset will be able to be manipulated to the point where; the problem will be affected slightly. Next, I would like to run a test and graph my results so that I can look at a visual of the data that is being analyzed. After the data analysis part of the research I would like to find a solution that will not only fix the problem significantly, but dramatically. 
+	Finally, to deliver this message to an audience, would be a task because I would have to explain in full detail the problem in my research. I would then give graphs and data plots that will make the data easily to see and understand. Then, I would provide a consensus for the data used and how that data is manipulated so that, the problem here, gets the correct solution. 
+
+
